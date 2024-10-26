@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f044c72b-8790-40b2-a87d-2351275718c9" name="Changes" comment="Ajout fichier password_generator et svg image">
+    <list default="true" id="f044c72b-8790-40b2-a87d-2351275718c9" name="Changes" comment="Ajout menu password_generator et svg image">
+      <change afterPath="$PROJECT_DIR$/app_objet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main_graven.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/new.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Data/new.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/password_generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/password_generator.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +48,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.app.executor": "Run",
+    "Python.app_objet.executor": "Run",
     "Python.graven.executor": "Run",
+    "Python.main_graven.executor": "Run",
     "Python.password_generator.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -104,13 +106,22 @@
       <option name="project" value="LOCAL" />
       <updated>1729932344950</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Ajout menu password_generator et svg image">
+      <option name="closed" value="true" />
+      <created>1729938700079</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1729938700079</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit" />
     <MESSAGE value="Ajout fichier password_generator et svg image" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ajout fichier password_generator et svg image" />
+    <MESSAGE value="Ajout menu password_generator et svg image" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ajout menu password_generator et svg image" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
